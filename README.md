@@ -12,6 +12,9 @@ helpful links :
                
               :file:///C:/Program%20Files/CoppeliaRobotics/CoppeliaSimEdu/helpFiles/en/regularApi/simFollowPath.htm (how to make object follow path).
 
+
+*Check out My Course On "Robotics With V-REP / CoppeliaSim"*: [Course link](https://www.udemy.com/course/robotics-with-v-rep-coppeliasim/?referralCode=AC63A5AB9B0AF5B39316)
+
 contact:
   email id: vermahrithik10@gmail.com
   direct message me at instagram:https://www.instagram.com/hrithik.verma.100/?hl=en
